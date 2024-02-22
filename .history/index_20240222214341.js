@@ -1,1 +1,0 @@
-const pdfjs = require("pdfjs-dist/es5/build/pdf")
